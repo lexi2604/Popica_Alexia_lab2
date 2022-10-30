@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Popica_Alexia_lab2", "Popica_Alexia_lab2.csproj", "{B28D8C60-F8C3-484F-A873-F873B207386F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B28D8C60-F8C3-484F-A873-F873B207386F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28D8C60-F8C3-484F-A873-F873B207386F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28D8C60-F8C3-484F-A873-F873B207386F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28D8C60-F8C3-484F-A873-F873B207386F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E567D0FE-FB92-4827-B23D-0A967C8444FA}
+	EndGlobalSection
+EndGlobal
